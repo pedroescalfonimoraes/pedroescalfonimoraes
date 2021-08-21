@@ -1,6 +1,6 @@
 ### hello there 🤙🏽
 
-my name is Pedro, I'm a Computer Engineer interested in topics such Information Security, Machine Learning and Deep Learning.
+my name is Pedro, I'm a Computer Engineer interested in topics such as Information Security, Machine Learning and Deep Learning.
 
 - [+] professional experience in pentesting field (infrastructure and web applications), digital and network forensics and pcsc interactions (ICP Brasil MCT1, 2, 3, ISO 7816, etc.);
 - [+] currently learning post exploitation techiques, secure development lifecycle and other fun stuffs;
