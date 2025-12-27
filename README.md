@@ -78,18 +78,9 @@ class SecurityEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroescalfonimoraes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroescalfonimoraes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9"/>
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/pedroescalfonimoraes/pedroescalfonimoraes/output/github-contribution-grid-snake-dark.svg)
+<a href="https://github.com/pedroescalfonimoraes">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroescalfonimoraes&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
+</a>
 
 </div>
 
@@ -99,7 +90,7 @@ class SecurityEngineer:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you are able to hear."   │
+│  "The quieter you become, the more you are able to hear."    │
 │                                        — Kali Linux          │
 └──────────────────────────────────────────────────────────────┘
 ```
