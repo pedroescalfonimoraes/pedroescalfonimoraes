@@ -78,9 +78,17 @@ class SecurityEngineer:
 
 <div align="center">
 
-<a href="https://github.com/pedroescalfonimoraes">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroescalfonimoraes&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroescalfonimoraes&theme=github_dark" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/pedroescalfonimoraes/pedroescalfonimoraes/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -90,7 +98,7 @@ class SecurityEngineer:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you are able to hear."    │
+│  "The quieter you become, the more you are able to hear."   │
 │                                        — Kali Linux          │
 └──────────────────────────────────────────────────────────────┘
 ```
